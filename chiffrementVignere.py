@@ -30,6 +30,7 @@ for i in range(26):
         TableVignere[i][j] = lettre[k % 26]
         k = k + 1
 """
+#comment
 for i in range(26):
     print(TableVignere[i])
 """
